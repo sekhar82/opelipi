@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opelipi/static/css/main.756af292.css",
+    "main.js": "/opelipi/static/js/main.cff11e7a.js",
+    "static/js/787.3dd06a74.chunk.js": "/opelipi/static/js/787.3dd06a74.chunk.js",
+    "index.html": "/opelipi/index.html",
+    "main.756af292.css.map": "/opelipi/static/css/main.756af292.css.map",
+    "main.cff11e7a.js.map": "/opelipi/static/js/main.cff11e7a.js.map",
+    "787.3dd06a74.chunk.js.map": "/opelipi/static/js/787.3dd06a74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.cff11e7a.js"
+  ]
+}
